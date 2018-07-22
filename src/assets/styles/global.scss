@@ -1,0 +1,14 @@
+body {
+  font-family: Ubuntu, sans-serif
+}
+
+.empty-items {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $light-green;
+  height: 100vh;
+  font-weight: 600;
+  text-align: center;
+}
