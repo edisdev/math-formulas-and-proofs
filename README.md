@@ -6,6 +6,24 @@
 
 Formül ve ispat eklemek için static dizinindeki formulas.js dosyasına item ekleyebilirsiniz. Daha sonra bunlar kontrol edip firebase veritabanına girilecektir.
 
+Örnek veri yapısı :
+
+```js
+ "32323234": {
+    "formulaName": "Prime",
+    "methods": {
+      "method1": {
+        "img": "",
+        "text": ""
+      },
+      "method2": {
+        "img": "",
+        "text": ""
+      }
+    }
+  }
+  ```
+  
 ## Build Setup
 
 ``` bash
