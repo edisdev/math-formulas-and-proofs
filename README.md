@@ -2,7 +2,7 @@
 
 > math formulas and proofs
 
-İlginç - Çok bilinen matematiksel formülleri ispatlarıyla beraber :)
+İlginç - Çok bilinen matematiksel formüller ( teoremler) ispatlarıyla beraber :)
 
 Formül ve ispat eklemek için static dizinindeki formulas.json dosyasına item ekleyebilirsiniz. Daha sonra bunlar kontrol edip firebase veritabanına girilecektir.
 
