@@ -4,7 +4,7 @@
 
 İlginç - Çok bilinen matematiksel formülleri ispatlarıyla beraber :)
 
-Formül ve ispat eklemek için static dizinindeki formulas.js dosyasına item ekleyebilirsiniz. Daha sonra bunlar kontrol edip firebase veritabanına girilecektir.
+Formül ve ispat eklemek için static dizinindeki formulas.json dosyasına item ekleyebilirsiniz. Daha sonra bunlar kontrol edip firebase veritabanına girilecektir.
 
 Örnek veri yapısı :
 
