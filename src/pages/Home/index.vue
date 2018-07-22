@@ -69,6 +69,7 @@
         bottom: 0;
         align-items: center;
         justify-content: center;
+        box-shadow: 10px 5px 2px #111;
       }
     }
   }
